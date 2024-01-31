@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "reveal-pdf": "^1.0.1"
+  }
+}
